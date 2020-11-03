@@ -1,0 +1,128 @@
+[
+ {
+  "gender": "female",
+  "firstName": "Stasia",
+  "lastName": "Nowak",
+  "age": 47
+ },
+ {
+  "gender": "female",
+  "firstName": "Kasia",
+  "lastName": "Jaworowicz",
+  "age": 31
+ },
+ {
+  "gender": "male",
+  "firstName": "Maciuś",
+  "lastName": "Kaczor",
+  "age": 64
+ },
+ {
+  "gender": "female",
+  "firstName": "Juleczka",
+  "lastName": "Glaca",
+  "age": 67
+ },
+ {
+  "gender": "female",
+  "firstName": "Juleczka",
+  "lastName": "Jaworowicz",
+  "age": 75
+ },
+ {
+  "gender": "female",
+  "firstName": "Kasia",
+  "lastName": "Kaczor",
+  "age": 53
+ },
+ {
+  "gender": "female",
+  "firstName": "Asia",
+  "lastName": "Smok",
+  "age": 20
+ },
+ {
+  "gender": "male",
+  "firstName": "Wojtuś",
+  "lastName": "Nołnejm",
+  "age": 47
+ },
+ {
+  "gender": "male",
+  "firstName": "Maciuś",
+  "lastName": "Mikser",
+  "age": 40
+ },
+ {
+  "gender": "female",
+  "firstName": "Asia",
+  "lastName": "Jaworowicz",
+  "age": 23
+ },
+ {
+  "gender": "female",
+  "firstName": "Agusia",
+  "lastName": "Smok",
+  "age": 60
+ },
+ {
+  "gender": "female",
+  "firstName": "Bożenka",
+  "lastName": "Nowak",
+  "age": 48
+ },
+ {
+  "gender": "male",
+  "firstName": "Kubuś",
+  "lastName": "Nowak",
+  "age": 74
+ },
+ {
+  "gender": "female",
+  "firstName": "Agusia",
+  "lastName": "Smok",
+  "age": 72
+ },
+ {
+  "gender": "male",
+  "firstName": "Staś",
+  "lastName": "Glaca",
+  "age": 55
+ },
+ {
+  "gender": "male",
+  "firstName": "Maciuś",
+  "lastName": "Smok",
+  "age": 76
+ },
+ {
+  "gender": "female",
+  "firstName": "Agusia",
+  "lastName": "Smok",
+  "age": 49
+ },
+ {
+  "gender": "male",
+  "firstName": "Tomuś",
+  "lastName": "Przczółka",
+  "age": 49
+ },
+ {
+  "gender": "male",
+  "firstName": "Jaś",
+  "lastName": "Jaworowicz",
+  "age": 27
+ },
+ {
+  "gender": "female",
+  "firstName": "Asia",
+  "lastName": "Glaca",
+  "age": 36
+ },
+ {
+  "gender": "female",
+  "firstName": "Juleczka",
+  "lastName": "Przczółka",
+  "age": 32
+ }
+]
